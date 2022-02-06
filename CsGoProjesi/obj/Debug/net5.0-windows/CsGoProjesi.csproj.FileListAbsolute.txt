@@ -1,0 +1,38 @@
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.exe
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.deps.json
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.runtimeconfig.json
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.dll
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\ref\CsGoProjesi.dll
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.pdb
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.Form1.resources
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.dll
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\ref\CsGoProjesi.dll
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.pdb
+C:\Users\Toshiba\source\repos\CsGoProjesi\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.exe
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.deps.json
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.runtimeconfig.json
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.dll
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\ref\CsGoProjesi.dll
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\bin\Debug\net5.0-windows\CsGoProjesi.pdb
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.Form1.resources
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.dll
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\ref\CsGoProjesi.dll
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.pdb
+C:\Users\Toshiba\Desktop\CsGoProjesi Güncel\CsGoProjesi\obj\Debug\net5.0-windows\CsGoProjesi.genruntimeconfig.cache
